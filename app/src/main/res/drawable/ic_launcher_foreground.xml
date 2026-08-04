@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Office Desk & Ergonomic Chair Icon -->
+    <path
+        android:fillColor="#FF38BDF8"
+        android:pathData="M34,42 h40 v6 a2,2 0 0,1 -2,2 h-36 a2,2 0 0,1 -2,-2 z" />
+    <path
+        android:fillColor="#FF0284C7"
+        android:pathData="M38,50 h4 v18 h-4 z M66,50 h4 v18 h-4 z" />
+    <!-- Chair back & seat -->
+    <path
+        android:fillColor="#FF818CF8"
+        android:pathData="M46,32 h16 a4,4 0 0,1 4,4 v10 h-24 v-10 a4,4 0 0,1 4,-4 z" />
+    <path
+        android:fillColor="#FFC084FC"
+        android:pathData="M42,48 h24 a2,2 0 0,1 2,2 v2 h-28 v-2 a2,2 0 0,1 2,-2 z" />
+    <!-- AI Sparkle -->
+    <path
+        android:fillColor="#FFFACC15"
+        android:pathData="M72,28 l2,4 l4,2 l-4,2 l-2,4 l-2,-4 l-4,-2 l4,-2 z" />
+</vector>
